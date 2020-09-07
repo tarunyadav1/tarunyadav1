@@ -1,0 +1,22 @@
+{
+  "name": "tarunyadav1",
+  "version": "1.0.0",
+  "description": "README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunyadav1/tarunyadav1.git"
+  },
+  "author": "Tarun Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunyadav1/tarunyadav1/issues"
+  },
+  "homepage": "https://github.com/tarunyadav1/tarunyadav1#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
