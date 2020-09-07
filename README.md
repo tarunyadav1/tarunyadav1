@@ -96,4 +96,4 @@ Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 7 September, 20:24 CEST<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 7 September, 20:32 CEST<br />
