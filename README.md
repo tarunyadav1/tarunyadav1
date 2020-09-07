@@ -49,35 +49,17 @@
     </tr>
 	  <tr>
 		  <td><a href="https://github.com/tarunyadav1/Doist-React-App-Using-firebase"><b>Task Manager App with Dark Mode</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tarunyadav1
-/
-Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tarunyadav1
-/
-Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tarunyadav1
-/
-Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tarunyadav1
-/
-Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-			<td><a href="https://github.com/tarunyadav1
-/
-Ecommerce-store-React-Redux-Firebase-StripePayment"><b>E-Commerce Using React </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tarunyadav1
-/
-Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tarunyadav1
-/
-Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tarunyadav1
-/
-Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tarunyadav1
-/
-Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
+			<td><a href="https://github.com/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment"><b>E-Commerce Using React </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -96,4 +78,4 @@ Ecommerce-store-React-Redux-Firebase-StripePayment?style=flat-square&labelColor=
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 7 September, 20:40 CEST<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 7 September, 20:54 CEST<br />
