@@ -1,7 +1,7 @@
 <h1>Hey, 👋 I'm Tarun Yadav</h1>
 
-<p>I am <b>JavaScript Developer</b> that focus on Frontend frameworks such as <b>React</b> and <b>Vue</b>. I have a passion for <b>Design Systems</b>,
-<b>Web Accessibility</b> and <b>Serverless</b> technologies. To grow my skill I am focusing on building a open source <b>JAM stack</b> application. </br>
+<p>I am <b>JavaScript Developer</b> that focus on Frontend frameworks such as <b>React</b> and <b>NextJs</b>. I have a passion for <b>Design Systems</b>,
+<b>Web Accessibility</b> and <b>Serverless</b> technologies. To grow my skill I am focusing on building a open source <b>MERN stack</b> application. </br>
  </p>
 
 <h3>Things I code With</h3>
@@ -16,7 +16,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=#029ded" width=120/>
   <img alt="AwsLambda" src="https://img.shields.io/badge/-AWS lambda-black?style=for-the-badge&logo=amazon&logoColor=#ff9900" width=160/>
   <img alt="git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=#f04f30" width=73 />
-  
+
 </p>
 
 <h3>Open source projects</h3>
@@ -69,4 +69,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 22 December, 12:23 CET<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 22 December, 12:29 CET<br />
