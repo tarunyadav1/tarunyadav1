@@ -1,7 +1,8 @@
 <h1>Hey, 👋 I'm Tarun Yadav</h1>
 
-<p>I am <b>JavaScript Developer</b> that focus on Frontend frameworks such as <b>React</b> and <b>NextJs</b>. I have a passion for <b>Design Systems</b>,
-<b>Web Accessibility</b> and <b>Serverless</b> technologies. To grow my skill I am focusing on building a open source <b>MERN stack</b> application. </br>
+<p>Hi, I'm a <b>JavaScript Developer </b> and an  Open  Source  Enthusiast who is highly passionate about building fast, creative applications and writing beautiful code. 
+
+Also,  I'm a  kid who loves building cool things!  These  'Cool things' include Web Apps, Mobile App, and a lot of random things that I built for fun. </br>
  </p>
 
  <h3>Current Location Temperture</h3>
@@ -71,4 +72,4 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Sunday, 7 February, 19:44 CET<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Sunday, 7 February, 20:13 CET<br />
