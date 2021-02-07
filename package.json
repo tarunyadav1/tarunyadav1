@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/tarunyadav1/tarunyadav1#readme",
   "dependencies": {
-     "dotenv": "^8.2.0",
+    "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1"
   }
