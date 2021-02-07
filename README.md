@@ -4,7 +4,11 @@
 <b>Web Accessibility</b> and <b>Serverless</b> technologies. To grow my skill I am focusing on building a open source <b>MERN stack</b> application. </br>
  </p>
 
+ <h3>Current Location Temperture</h3>
+ <p> Delhi, India 12* C </p>
+
 <h3>Things I code With</h3>
+
 
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=f0dc4e" width=150 />
@@ -55,18 +59,16 @@
   </tbody>
 </table>
 
-<h3>GitHub Stats </h3>
-
-![Tarun yadav github stats](https://github-readme-stats.vercel.app/api?username=tarunyadav1&hide=stars&count_private=true&show_icons=true&theme=material-palenight)
-
-<h3>Most Used Languages </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/tarunyadav1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/tarunyadav9761" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/tarunyadav9761" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://dev.to/tarunyadav1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/DEV-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white"  /></a> 
 </p>
 
+<h3>Most Used Languages </h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)
+
+
+
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Sunday, 7 February, 19:33 CET<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Sunday, 7 February, 19:44 CET<br />
