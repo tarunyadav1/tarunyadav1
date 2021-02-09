@@ -6,7 +6,7 @@ Also,  I'm a  kid who loves building cool things!  These  'Cool things' include 
  </p>
 
  <h3>Current Location Temperture</h3>
- <p> Delhi, India 10* C </p>
+ <p> Delhi, India 18* C </p>
 
 <h3>Things I code With</h3>
 
@@ -72,4 +72,4 @@ Also,  I'm a  kid who loves building cool things!  These  'Cool things' include 
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 9 February, 01:52 CET<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 9 February, 07:23 CET<br />
