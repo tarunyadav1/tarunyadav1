@@ -1,12 +1,11 @@
 <h1>Hey, 👋 I'm Tarun Yadav</h1>
 
-<p>Hi, I'm a <b>JavaScript Developer </b> and an  Open  Source  Enthusiast who is highly passionate about building fast, creative applications and writing beautiful code. 
+<p>Hi, I'm a <b>Frontend Developer </b> currently working in blockchain space.</p>
 
-Also,  I'm a  kid who loves building cool things!  These  'Cool things' include Web Apps, Mobile App, and a lot of random things that I built for fun. </br>
- </p>
+Ping me on twitter: <a href="https://twitter.com/tarunyadav9761">@tarunyadav9761</a>, if you want to talk about web3, tech, or anything else.
 
- <h3>Current Location Temperture</h3>
- <p> Delhi, India 29.05* C </p>
+ <h3>Current Location Temperature</h3>
+ <p> Delhi, India 35.05* C </p>
 
 <h3>Things I code With</h3>
 
@@ -72,4 +71,4 @@ Also,  I'm a  kid who loves building cool things!  These  'Cool things' include 
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 9 May, 04:07 CEST<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 9 May, 08:04 CEST<br />
