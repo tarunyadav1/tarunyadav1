@@ -5,7 +5,7 @@
 Ping me on twitter: <a href="https://twitter.com/tarunyadav9761">@tarunyadav9761</a>, if you want to talk about web3, tech, or anything else.
 
  <h3>Current Location Temperature</h3>
- <p> Delhi, India 23.05* C </p>
+ <p> Delhi, India 20.05* C </p>
 
 <h3>Things I code With</h3>
 
@@ -71,4 +71,4 @@ Ping me on twitter: <a href="https://twitter.com/tarunyadav9761">@tarunyadav9761
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 7 April, 20:21 CEST<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 8 April, 03:23 CEST<br />
