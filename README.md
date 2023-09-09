@@ -43,11 +43,11 @@ Ping me on twitter: <a href="https://twitter.com/tarunyadav9761">@tarunyadav9761
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tarunyadav1/Slack-clone-with-React-Firebase-Redux?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-		  <td><a href="https://github.com/tarunyadav1/Doist-React-App-Using-firebase"><b>Task Manager App with Dark Mode</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tarunyadav1/Doist-React-App-Using-firebase?style=flat-square&labelColor=343b41"/></td>
+		  <td><a href="https://github.com/tarunyadav1/aigit"><b>A CLI that writes your git commit messages for you with AI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tarunyadav1/aigit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tarunyadav1/aigit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tarunyadav1/aigit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tarunyadav1/aigit?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
 			<td><a href="https://github.com/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment"><b>E-Commerce Using React </b></a></td>
@@ -71,4 +71,4 @@ Ping me on twitter: <a href="https://twitter.com/tarunyadav9761">@tarunyadav9761
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 9 September, 06:48 CEST<br />
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 9 September, 06:57 CEST<br />
