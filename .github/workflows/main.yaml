@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
 
 jobs:
   build:
@@ -13,13 +13,13 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2 # Updated to the latest version
       - name: Setup NodeJs 16.x
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2 # Updated to the latest version
         with:
-          node-version: "16.x"
+          node-version: '16.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
+        uses: actions/cache@v2 # Updated to the latest version
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
