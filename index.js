@@ -28,7 +28,7 @@ const weather = async () => {
 
 weather()
 	.then((res) => res.json())
-	.then((weatherData) => (DATA.temperature = weatherData.main.temp))
+	.then((weatherData) => (DATA.temperature = weatherData.main?.temp))
 	.then(() => generateReadMe())
 
 function generateReadMe() {
