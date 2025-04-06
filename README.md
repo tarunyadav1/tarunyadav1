@@ -56,14 +56,11 @@
       <td>We build custom AI-powered SaaS solutions for various clients. Check out our portfolio (if available) or contact us for case studies.</td>
       <td><a href="https://www.rocketmvp.io/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Visit%20Website-blue?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
-     <!-- Add another key project if you have one, otherwise remove this row -->
-    <!--
     <tr>
-	    <td><a href="LINK_TO_PROJECT"><b>Your Other Project</b></a></td>
-      <td>Brief description of another relevant project, maybe AI or SaaS focused.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tarunyadav1/YOUR_REPO?style=flat-square&labelColor=343b41"/></td>
+        <td><a href="https://aiagentportal.io/" target="_blank" rel="noopener noreferrer"><b>AI Agent Portal</b></a></td>
+      <td>A platform featuring 600+ AI agents to automate tasks and scale businesses.</td>
+      <td><a href="https://aiagentportal.io/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Visit%20Website-green?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
-    -->
   </tbody>
 </table>
 
@@ -91,5 +88,5 @@
 
 <p align="center">
   📍 Delhi, India °C<br/>
-  <i>README automatically updated on: Sunday, 6 April at 04:49 CEST</i>
+  <i>README automatically updated on: Sunday, 6 April at 04:54 CEST</i>
 </p>
