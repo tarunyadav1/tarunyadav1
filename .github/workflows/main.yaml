@@ -13,21 +13,27 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v2 # Updated to the latest version
+        uses: actions/checkout@v4 # Updated to v4
       - name: Setup NodeJs 16.x
-        uses: actions/setup-node@v2 # Updated to the latest version
+        uses: actions/setup-node@v4 # Updated to v4
         with:
           node-version: '16.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v2 # Updated to the latest version
+        uses: actions/cache@v4 # Updated to v4
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-js-
       - name: Install dependencies
         run: npm install
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
+        uses: stefanzweifel/git-auto-commit-action@v5 # Replaced with git-auto-commit
+        with:
+          commit_message: 'docs: auto-update README.md'
+          # Optional: specify the file pattern to commit
+          # file_pattern: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
