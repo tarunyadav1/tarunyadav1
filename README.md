@@ -1,9 +1,9 @@
 <h1>Hey, 👋 I'm Tarun Yadav</h1>
 
-<h2>Founder @ <a href="https://www.rocketmvp.io/" target="_blank" rel="noopener noreferrer">RocketMVP</a> | Building AI-Powered SaaS Products</h2>
+<h2>Founder @ <a href="https://www.rocketmvp.io/" target="_blank" rel="noopener noreferrer">RocketMVP</a> | Creator of <a href="https://murmurtts.com/" target="_blank" rel="noopener noreferrer">Murmur</a> | Building AI-Powered SaaS Products</h2>
 
 <p>
-  I lead <a href="https://www.rocketmvp.io/" target="_blank" rel="noopener noreferrer">RocketMVP</a>, an agency focused on transforming ideas into market-ready SaaS applications, specializing in leveraging AI for smarter solutions.
+  I lead <a href="https://www.rocketmvp.io/" target="_blank" rel="noopener noreferrer">RocketMVP</a>, an agency focused on transforming ideas into market-ready SaaS applications, specializing in leveraging AI for smarter solutions. I'm also the creator of <a href="https://murmurtts.com/" target="_blank" rel="noopener noreferrer">Murmur</a>, an on-device text-to-speech studio for macOS with 860+ voices and voice cloning that runs 100% offline on Apple Silicon.
   Passionate about the intersection of technology, entrepreneurship, and decentralized systems (Web3/Crypto).
 </p>
 
@@ -16,6 +16,7 @@
 <h3>What I'm Focused On</h3>
 
 <ul>
+  <li>🎙️ Building <a href="https://murmurtts.com/" target="_blank" rel="noopener noreferrer"><b>Murmur</b></a>: a native macOS text-to-speech app with 860+ voices, voice cloning, and 100% on-device generation on Apple Silicon. No cloud, no subscriptions.</li>
   <li>🚀 Leading <a href="https://www.rocketmvp.io/" target="_blank" rel="noopener noreferrer"><b>RocketMVP</b></a>: Helping businesses design, build, and launch scalable SaaS platforms.</li>
   <li>🤖 Building with AI: Integrating machine learning and AI capabilities to create intelligent applications.</li>
   <li>💡 Exploring Web3 & Crypto: Actively interested in the potential and application of blockchain technologies.</li>
@@ -29,6 +30,7 @@
 <p>While I adapt to the best tools for the job, here's what I frequently work with:</p>
 
 <p>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -46,6 +48,26 @@
 
 <table>
   <tbody>
+    <tr>
+        <td><a href="https://murmurtts.com/" target="_blank" rel="noopener noreferrer"><b>Murmur</b></a></td>
+      <td>On-device voice studio for macOS. 860+ voices, voice cloning, batch processing, and unlimited generation. Built on Kokoro, Qwen, Fish, and Chatterbox via MLX. Runs 100% offline on Apple Silicon.</td>
+      <td><a href="https://murmurtts.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Visit%20Website-7C3AED?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://tarun-yadav.com/loopmaker" target="_blank" rel="noopener noreferrer"><b>LoopMaker</b></a></td>
+      <td>An AI music generator for Mac. Create unlimited loops and tracks fully offline, with lifetime access and no subscription.</td>
+      <td><a href="https://tarun-yadav.com/loopmaker" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Visit%20Website-EC4899?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://tarun-yadav.com/echotext" target="_blank" rel="noopener noreferrer"><b>EchoText</b></a></td>
+      <td>A Mac voice-to-text app that turns speech into text instantly, anywhere on your machine.</td>
+      <td><a href="https://tarun-yadav.com/echotext" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Visit%20Website-0EA5E9?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://tarun-yadav.com/meetingmind" target="_blank" rel="noopener noreferrer"><b>MeetingMind</b></a></td>
+      <td>An AI meeting assistant that records, transcribes, and summarizes meetings entirely on your Mac. No cloud, no accounts.</td>
+      <td><a href="https://tarun-yadav.com/meetingmind" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Visit%20Website-10B981?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
     <tr>
 	    <td><a href="https://github.com/tarunyadav1/aigit"><b>aigit</b></a></td>
       <td>A CLI tool that uses AI (OpenAI) to automatically generate descriptive Git commit messages based on your staged changes.</td>
@@ -68,10 +90,11 @@
 
 <h3>Where to Find Me</h3>
 <p>
-  <a href="https://github.com/tarunyadav1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://x.com/tarunyadav9761" target="_blank"><img alt="Twitter / X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/tarunyadav9761" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.rocketmvp.io/" target="_blank"><img alt="RocketMVP" src="https://img.shields.io/badge/RocketMVP-%23DE3A1F.svg?&style=for-the-badge&logo=rocket&logoColor=white" /></a> 
+  <a href="https://github.com/tarunyadav1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://murmurtts.com/" target="_blank"><img alt="Murmur" src="https://img.shields.io/badge/Murmur%20TTS-%237C3AED.svg?&style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://x.com/tarunyadav9761" target="_blank"><img alt="Twitter / X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarunyadav9761" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.rocketmvp.io/" target="_blank"><img alt="RocketMVP" src="https://img.shields.io/badge/RocketMVP-%23DE3A1F.svg?&style=for-the-badge&logo=rocket&logoColor=white" /></a>
   <!-- <a href="https://dev.to/tarunyadav1" target="_blank"><img alt="DEV.to" src="https://img.shields.io/badge/DEV-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white"  /></a> -->
 </p>
 
